@@ -1,0 +1,32 @@
+.error
+{
+    width:50%;
+    height:60vh;
+    box-shadow: 3px 3px 8px #79797960;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 50px;
+    
+}
+.error h1{
+    font-weight: 500;
+    font-size: 50px;
+}
+.error p{
+    font-weight: 400;
+    font-size: 30px;
+    font-style: italic;
+}
+.error .btn
+{
+    width:150px;
+    padding: 10px;
+    background-color :rgb(0, 162, 255);
+    font-size: 20px;
+    border-radius: 18px;
+    border: 2px solid rgb(0, 162, 255);
+    font-weight: 300;
+}
